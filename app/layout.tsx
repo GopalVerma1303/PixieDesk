@@ -6,9 +6,9 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "Figma Clone",
+  title: "PixieDesk",
   description:
-    "A minimalist Figma clone using fabric.js and Liveblocks for realtime collaboration",
+    "PixieDesk is a powerful web application collaboration tool designed to streamline your design and development processes. With PixieDesk, teams can easily collaborate in real-time, share feedback, and bring their creative visions to life.",
 };
 
 const workSans = Work_Sans({
